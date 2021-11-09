@@ -1,0 +1,22 @@
+ @charset "utf-8";
+
+.Notes{
+   width:96%;
+   text-align:justify;
+   font-size:16pt;
+ }
+
+.imk {
+  width:50%;
+  border:2px solid Tomato;
+  height:50%;
+  float:right;
+  margin: 12px;
+  }
+
+.Main{
+  text-shadow: 2px 2px DodgerBlue;
+  width:100%;
+  text-align:center;
+  font-size:17pt;
+}
